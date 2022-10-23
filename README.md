@@ -1,2 +1,4 @@
 # U.S-Medical-Insurance
 This project examines and analyses the differences in insurance costs across 4 regions in the US and based on a number of criteria.
+
+The dataset contains data on the age, sex, BMI, number of children, smoking status (smoker or non-smoker), region and charges for each person (row of data). the dataset was imported as a csv into a pandas dataframe in Jupyter Notebook. the dataset was understood and described with a statistical summary. then, the effect of each predictor variable on the dependent variable (charges) was examined. Also, the dual effect of smoker status and some other predictor variables was examined in order to justify some anomalies which were discovered. finally, the region with the highest charges was closely examined by taking into consideration its individual values for each criterion.
